@@ -1,16 +1,12 @@
-# About Me
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
-
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm Rachana Angara!
 
 I'm a passionate software developer with experience in full-stack development. Currently, I'm pursuing my Master's at ASU, expected to graduate in May 2026. I have a strong interest in building scalable applications, exploring new technologies, and contributing to open-source projects.
 
 ## 💼 Professional Experience
 
 ### Software Developer at Barclays
-**[Your Job Title]** | [Start Date] - [End Date]
+**Software Engineer** | [August 2021] - [August 2024]
 - Developed and optimized scalable backend services using Java and Spring Boot.
 - Built interactive and high-performance front-end applications with React and Angular.
 - Collaborated with cross-functional teams to implement new features and improve system performance.
@@ -50,18 +46,18 @@ I'm a passionate software developer with experience in full-stack development. C
 ## 🎯 Projects
 
 Check out my repositories for my latest work:
-- [Project 1](https://github.com/your-username/project1) - A brief description of the project.
-- [Project 2](https://github.com/your-username/project2) - Another exciting project.
-- [More projects...](https://github.com/your-username)
+- VeriFace Security(https://github.com/its-rachana/VeriFace-Security) - Designed and deployed a real-time facial recognition system for criminal identification utilizing machine learning algorithms (CNN, OpenCV), augmenting accuracy by 25% and minimizing false positives by 15%..
+- FitSphere(https://github.com/its-rachana/FitSphere) - A Java, Hibernate & React–based responsive fitness tracking website featuring programs, dashboards, and memberships, showcasing front-end skills in DOM manipulation and dynamic UI.
+- FinTrack WebApp(https://github.com/its-rachana/fintrack) - Engineered a full-stack expense tracking app with secure authentication and financial management.
+- ArtTrack(https://github.com/its-rachana/ArtTrack) - Constructed an art organization tool for museums and researchers, leveraging semantic web technologies to establish clear connections between artworks, artists, and styles.
+- Agile Sprint Simulator(https://github.com/its-rachana/Agile-Sprint-Simulator) - A Java & Gradle-based Agile Sprint Simulator for backlog management, task prioritization, and sprint planning, optimized for Agile training and education.
 
 ## 🤝 Let's Connect!
 
 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![HackerRank](https://img.shields.io/badge/HackerRank-282C34?logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachana-angara/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/its_rachana/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
 Feel free to reach out for collaboration, discussions, or just to say hi! 🚀
